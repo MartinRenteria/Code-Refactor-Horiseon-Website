@@ -4,8 +4,13 @@
     margin: 0;
 }
 
+main {
+    display: contents;
+}
+
 body {
     background-color: #d9dcd6;
+    display: contents;
 }
 
 header {
@@ -45,6 +50,7 @@ a {
 p {
     font-size: 16px;
 }
+
 
 .hero {
     height: 800px;
