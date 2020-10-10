@@ -4,14 +4,22 @@
     margin: 0;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Keeps all links/images inside containers */ 
 main {
     display: contents;
 }
 
+/* Makes page background color creamish */
 body {
     background-color: #d9dcd6;
 }
 
+/* Format and color of background to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,11 +27,13 @@ header {
     color: #ffffff;
 }
 
+/* Format of Horiseon header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Format of navi bar and moved it to the right */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,22 +42,29 @@ nav {
     font-size: 20px;
 }
 
+/* Removed bullet points from list items */
 nav ul {
     list-style-type: none;
 }
 
+/* Keeps navi links on the same line */
 nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
 p {
     font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Hero image */
@@ -61,22 +78,13 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Format of aside benefits containers */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -136,6 +144,7 @@ p {
     max-width: 150px;
 }
 
+/* Format of body containers and images */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -190,6 +199,7 @@ p {
     font-size: 36px;
 }
 
+/* Format of bottom of page */
 .footer {
     padding: 30px;
     clear: both;
