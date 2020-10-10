@@ -31,3 +31,4 @@ Updated website: http://127.0.0.1:5500/Updated_site/new_index.html
 
 github repository: https://github.com/MartinRenteria/UWCB-HW01-Code-Refactor-Horiseon-Website.git
 
+![Screenshot (12)](https://user-images.githubusercontent.com/68476218/95643822-8f2d8880-0a66-11eb-88e9-8efdf64d02cf.png)
