@@ -10,7 +10,6 @@ main {
 
 body {
     background-color: #d9dcd6;
-    display: contents;
 }
 
 header {
@@ -51,7 +50,8 @@ p {
     font-size: 16px;
 }
 
-
+/* Hero image */
+/* Contains link to hero and background specifcations */
 .hero {
     height: 800px;
     width: 100%;
