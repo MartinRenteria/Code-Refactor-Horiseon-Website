@@ -25,9 +25,7 @@ Removed div's and class names that were no longer needed and were intergrated in
 
 Here is the link to both websites:  
 
-Old website: http://127.0.0.1:5500/Original_site/index_old.html
-
-Updated website: http://127.0.0.1:5500/Updated_site/new_index.html
+Updated website: https://martinrenteria.github.io/UWCB-HW01-Code-Refactor-Horiseon-Website/
 
 github repository: https://github.com/MartinRenteria/UWCB-HW01-Code-Refactor-Horiseon-Website.git
 
