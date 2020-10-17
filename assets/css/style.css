@@ -1,9 +1,11 @@
+/* CSS Reset for CSS structure of page */ 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Sets color of links and takes off any decorative effects */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -53,15 +55,18 @@ nav ul li {
     margin-left: 25px;
 }
 
+/* font-size of all paragraphs */
 p {
     font-size: 16px;
 }
 
+/* Sets float attribute and margin to .float-left classes */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Sets float attribute and margin to .float-right classes */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -78,13 +83,14 @@ p {
     background-position: center;
 }
 
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Format of aside benefits containers */
+/* Format of aside benefits containers and headers */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -184,6 +190,7 @@ p {
     max-height: 200px;
 }
 
+/* Sizes for the margin-bottoms and font-sizes of aside containers headers */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -207,6 +214,7 @@ p {
     text-align: center;
 }
 
+/* Changes size of second header for footer */
 .footer h2 {
     font-size: 20px;
 }
