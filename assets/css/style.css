@@ -83,14 +83,14 @@ p {
     background-position: center;
 }
 
-.content {
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 /* Format of aside benefits containers and headers */
-.benefits {
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
