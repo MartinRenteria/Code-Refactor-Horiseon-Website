@@ -10,16 +10,16 @@ Refactoring an existing codebase to allow it to follow accessibility standards a
 
 <strong>HTML:</strong>
 Fixed search engine optimization link 
-Changed certain div tags to semantic HTML elements like header, main, section, and etc. 
+Changed certain div tags to semantic HTML elements like header, main, section, aside to meet proper HTML semantics.
 Changed the title of the webpage.
 Added alt attributes to images to add accessibility.
 Added indentation to rows of code to make it easier to read.
-Removed Id's and class names that were not needed and intergrated in existing classes and elements.
+Changed class to Id's when appropriate to specific containers.
 
 <strong>CSS:</strong>
 Added functionality comments to classes and elements 
-Added classes/elements that sustained website functiomnality.
-Removed div's and class names that were no longer needed and were intergrated into existing classes/elements. 
+Added classes/elements that sustained website functionality.
+Reformatted classes to Id's when appropriate. 
 
 <strong>Link:</strong>
 
